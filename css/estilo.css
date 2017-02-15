@@ -10,3 +10,21 @@
     border-radius: 100px 40px 100px 40px;
     box-shadow: 5px 10px 7px rgba(140,0,140,0.7), -5px -10px 7px rgba(140,0,140,0.7);
 }
+.titulo1{
+    font-size: 26px;
+    text-align: center;
+    font-weight: bold;
+    border: solid 1px;
+}
+.imagen{
+    text-align: center;
+    width: 1%;
+    height: 1%;
+    margin-left: 42%;
+}
+.imagcenter{ 
+    width: 170px;
+    border-radius: 40px 0px 40px 0px;
+    box-decoration-break: #0000FF;
+    box-shadow: 5px 10px 7px rgba(0,0,0,0.7), -5px -10px 7px rgba(0,0,0,0.7);
+}

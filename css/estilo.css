@@ -1,0 +1,12 @@
+.titulo1{
+    font-family: rockwell extra bold;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;   
+    border:solid #660066 7px;
+    width: 80%;
+    height: 50%;
+    margin: 0 auto;
+    border-radius: 100px 40px 100px 40px;
+    box-shadow: 5px 10px 7px rgba(140,0,140,0.7), -5px -10px 7px rgba(140,0,140,0.7);
+}

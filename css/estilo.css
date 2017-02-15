@@ -1,30 +1,35 @@
-.titulo1{
-    font-family: rockwell extra bold;
-    font-size: 30px;
-    text-align: center;
-    font-weight: bold;   
-    border:solid #660066 7px;
-    width: 80%;
-    height: 50%;
-    margin: 0 auto;
-    border-radius: 100px 40px 100px 40px;
-    box-shadow: 5px 10px 7px rgba(140,0,140,0.7), -5px -10px 7px rgba(140,0,140,0.7);
-}
-/.titulo1{
-    font-size: 26px;
+.titulo{
     text-align: center;
     font-weight: bold;
-    border: solid 1px;
+    font-family: cambria;
+    font-size: 30px;
 }
-.imagen{
+
+.texto{
+    font-family: cambria;
+    font-size: 20px;
+}
+
+.logo{
     text-align: center;
-    width: 1%;
-    height: 1%;
-    margin-left: 42%;
 }
-.imagcenter{ 
-    width: 170px;
-    border-radius: 40px 0px 40px 0px;
-    box-decoration-break: #0000FF;
-    box-shadow: 5px 10px 7px rgba(0,0,0,0.7), -5px -10px 7px rgba(0,0,0,0.7);
+
+.subtitulo{
+    text-align: left;
+    font-weight: bold;
+    font-family: cambria;
+    font-size: 25px;
+}
+
+.opciones{
+    font-family: cambria;
+    font-size: 20px;
+}
+
+body{
+    background-image: url(../img/fondo.jpg);
+}
+
+div img{
+    max-width: 20%;
 }
